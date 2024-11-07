@@ -1,4 +1,4 @@
-print("Sum if integers")
+print("Sum of integers")
 a = []
 while True:
   i = int(input("Enter number: "))
